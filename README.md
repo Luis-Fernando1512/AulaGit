@@ -1,2 +1,2 @@
-qualquer coisa
+qualquer coisa\n
 kauan caverna pro123
